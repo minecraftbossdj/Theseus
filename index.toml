@@ -195,6 +195,10 @@ hash = "f7af3613a8729d82920d88edc8e02e6cc91d9ea3173d73bb66f394ab8c8699db"
 metafile = true
 
 [[files]]
+file = "mods/create_connected-0.9.4-mc1.20.1-all.jar"
+hash = "74550c7f35c87c064ad0d94dced6b22e18d23ae15b8d3c8eb5afe4d4023e4114"
+
+[[files]]
 file = "mods/create_eureka-1.1.0.r-forge-1.20.1.jar"
 hash = "14f351b474b1df8fb51c5eb46a5abcfd2699b6ea0e6af0d5932d809c2b1c7a38"
 
@@ -481,6 +485,10 @@ file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
 hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
 
 [[files]]
+file = "mods/petrolsparts-1.20.1-1.1.5.jar"
+hash = "733399e6f17f0935f2cd5b1f05eae52821ee7083bc19a6a965ce4b648c4a2a8c"
+
+[[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "6208fb5a8e0d42ff78f11486ba63e8c50ffa55b406a366f74feb0bb42dacee9b"
 metafile = true
@@ -609,14 +617,17 @@ hash = "b6c948d0bd60b2dc11bb26379cd7643e9206f729f19b3fff864b6cb15d3996ed"
 metafile = true
 
 [[files]]
+file = "mods/trackwork-1.20.1-1.1.1b.jar"
+hash = "d27b72824e2cfe329aaf5538d7f3d2142f9fc793b2f708f7a13d92b4a68f7837"
+
+[[files]]
 file = "mods/treechop.pw.toml"
 hash = "f6c53199a7150534f4f23b88eacb386d318a5425483a2a58bf1be17580d951cc"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "209313bf235bea6141b5f4d3dcdcabe44d6c42364102dd169eee9b58f9e9f88b"
-metafile = true
+file = "mods/valkyrienskies-120-2.3.0-beta.10.jar"
+hash = "3e32913a84bf7094e2d28903f5ea0d2b4b885d9e25286ed72ecf477a289ae5ca"
 
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.5.36.jar"
