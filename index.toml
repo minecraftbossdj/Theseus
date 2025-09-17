@@ -13,6 +13,10 @@ file = "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
 hash = "7113db048da25c06d157f66d119fc17114f81b68bf47c24ed770a538e1ecee1f"
 
 [[files]]
+file = "mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar"
+hash = "2b5de085275d658e0445d783dbbcf9848c00aab8ac18cc2f664a62f44f78a18a"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "24f06df8542a944756c56e2dc12dbf8e3b45a7072e17148a806e840a77884765"
 metafile = true
@@ -68,13 +72,24 @@ hash = "c56aa640a480154eb06183d08e2459a3a7f9472810c32dcde0aa2158dbd241c7"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
+file = "mods/carryon-vs-compat.pw.toml"
+hash = "702433eedd02735d948b78c6c976dbb4b1fb8edf07888fdd2a35892a55a46777"
+metafile = true
+
+[[files]]
 file = "mods/caverns-and-chasms.pw.toml"
 hash = "7b4c85eba70a03330a81aa40056840f44b84d33bcc97d95d6bfd014130c05e0e"
 metafile = true
 
 [[files]]
-file = "mods/cclink-5.0.0-beta1-1.20.1.jar"
-hash = "78f62905737d498cc7ca0959d698468bd37b4e5329e9016c80c6c9405ba4010f"
+file = "mods/cc-link.pw.toml"
+hash = "93cb1178b451382b31c7756f2e403eddbc878d83a0c9bfa30747665a926496cc"
+metafile = true
 
 [[files]]
 file = "mods/ccshenanigans-1.0.jar"
@@ -186,6 +201,10 @@ hash = "14f351b474b1df8fb51c5eb46a5abcfd2699b6ea0e6af0d5932d809c2b1c7a38"
 [[files]]
 file = "mods/create_radar-0.2.136+mc1.20.1-all.jar"
 hash = "ec6791d3770a30a13a4eea7685839db9cc6e771a8a111a2405588c388c07c658"
+
+[[files]]
+file = "mods/createaddition-1.20.1-1.2.5.jar"
+hash = "e6277dc5f058cccd55ed4aa802a00faf44fc5e8d0d9ecf57928c4a412123aa92"
 
 [[files]]
 file = "mods/createnuclear.pw.toml"
@@ -616,11 +635,6 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "4ce0b964b7e35a63bac67e30a6229398a2d1fa61df0bd19b8d01d67bb505267f"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "a425dd146e233c32665f3d36838f17ae32ffb729ffec7e7e573d9b3fd41ca65e"
 metafile = true
 
 [[files]]
