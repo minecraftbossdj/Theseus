@@ -279,11 +279,6 @@ file = "mods/destroy-1.20.1-0.1.1-snapshot-i+0.jar"
 hash = "03c5131c04dc2e3f368bb998d00da24c8bc059a3fa27fddbb3601a9dc77cafca"
 
 [[files]]
-file = "mods/destructive-temperatures.pw.toml"
-hash = "65ef13025f1654824d15e88a0d1779d93a1d55303a0741a6910350f925057e73"
-metafile = true
-
-[[files]]
 file = "mods/diet.pw.toml"
 hash = "2be152619605a8aa049f53e76a8844813d713085bc027eaf5f1a42949c4c158e"
 metafile = true
@@ -685,8 +680,9 @@ hash = "7a8e56458d1c3e7f4131e28d51a363a0ffb51ffb327851c81ad1a7b7da8293a9"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered-forge-1.20.1-1.4.15.jar"
-hash = "c2fe3c3920438cdf48a47d5960cc49b8fee701040c38eea6eb4873266760888e"
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "348b223eee9f72f4c43e14f8bd1634f2b5d0b7b634d6c75f6e9b64f0a6cf032c"
+metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
