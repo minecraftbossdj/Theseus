@@ -548,10 +548,6 @@ hash = "7731c03c84821dd4dc6400e4604b7caf64dc517099d23594c85edbf9ee9ba559"
 metafile = true
 
 [[files]]
-file = "mods/nirvana-forge-1.2.1.jar"
-hash = "46990b6ea6902442d4fda76c8e82a4f3757257c3e515f98910f06f53e15d6c23"
-
-[[files]]
 file = "mods/notenoughanimations-forge-1.10.2-mc1.20.1.jar"
 hash = "29d7567b92d8cf5f9ca06e3a901fb149318d0fca82097e5f0f5e568df9a2c120"
 
