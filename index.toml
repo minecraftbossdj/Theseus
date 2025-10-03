@@ -5,8 +5,16 @@ file = "mods/AdvancedPeripherals-1.20.1-0.7.44r.jar"
 hash = "74e46af711325fb3e2003753cf58045dbbf3f3ce87195369a32fc786f238a423"
 
 [[files]]
+file = "mods/ClockworkAdditions-1.20.1-0.0.7-forge-and-fabric.jar"
+hash = "3eb085b83d201d6ba3a9bc3b84fed70b36a252f7cbff6611af7648b2491a79f6"
+
+[[files]]
 file = "mods/CobbleForDays-1.8.0(1).jar"
 hash = "9e7244ff134b8059fb481280505ba9d200c6d1b6e21984a3963e5dfc5794ee00"
+
+[[files]]
+file = "mods/Explosion-Overhaul-0.1.7.7-a Forge-1.20.1.jar"
+hash = "83d693a75fda959fe79400676402d4a6dff0951454748f16e386530464c60cff"
 
 [[files]]
 file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
@@ -95,6 +103,15 @@ hash = "7b4c85eba70a03330a81aa40056840f44b84d33bcc97d95d6bfd014130c05e0e"
 metafile = true
 
 [[files]]
+file = "mods/cbcmodernwarfare-0.0.6c+mc.1.20.1-forge.jar"
+hash = "7e3119dc9014f7dbf3bc291cae05b8c9fa897e36502fd8ceefb3a9be47dfab58"
+
+[[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "4ed9f836bfc65be0b51882d3f5c8028900e777eaf0cdee1ad960c10f4018c851"
+metafile = true
+
+[[files]]
 file = "mods/cc_vs-1.20.1-forge-0.3.0.jar"
 hash = "87fe1948c4a7835c14748cd2712f87ec71e87cec36381c361536207c89d9b55b"
 
@@ -119,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "a42ad3bf7bab4fdf9d2312695788414ee6358f3dd71ce7bad959c903601b14d5"
+metafile = true
+
+[[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "216e8f54a9b2ab28f2b9faac725e8abc5a021b6524c5b98d64b6a2951d5247a3"
 metafile = true
 
 [[files]]
@@ -206,6 +228,10 @@ hash = "f7af3613a8729d82920d88edc8e02e6cc91d9ea3173d73bb66f394ab8c8699db"
 metafile = true
 
 [[files]]
+file = "mods/create_cold_sweat-1.1.1.7.jar"
+hash = "2be8bcdf63fa5a70fbe15a23e7a143d69ed908efff635bd01937467813475633"
+
+[[files]]
 file = "mods/create_connected-0.9.4-mc1.20.1-all.jar"
 hash = "74550c7f35c87c064ad0d94dced6b22e18d23ae15b8d3c8eb5afe4d4023e4114"
 
@@ -230,6 +256,10 @@ file = "mods/createdeco-2.0.2-1.20.1-forge.jar"
 hash = "f2e6e196603c13b23063a376b09aac74c7f76348cde45de5256bb68f2e9566c1"
 
 [[files]]
+file = "mods/createendertransmission-2.0.7-1.20.1.jar"
+hash = "84d5c38dea8a887406216121eb34d5dab938a45db522904468dc7db200e47034"
+
+[[files]]
 file = "mods/createnuclear.pw.toml"
 hash = "0b950838be05071463a92be7e41641222d0b194ec5d1c5865850acd301471f02"
 metafile = true
@@ -249,6 +279,11 @@ file = "mods/destroy-1.20.1-0.1.1-snapshot-i+0.jar"
 hash = "03c5131c04dc2e3f368bb998d00da24c8bc059a3fa27fddbb3601a9dc77cafca"
 
 [[files]]
+file = "mods/destructive-temperatures.pw.toml"
+hash = "65ef13025f1654824d15e88a0d1779d93a1d55303a0741a6910350f925057e73"
+metafile = true
+
+[[files]]
 file = "mods/diet.pw.toml"
 hash = "2be152619605a8aa049f53e76a8844813d713085bc027eaf5f1a42949c4c158e"
 metafile = true
@@ -257,6 +292,10 @@ metafile = true
 file = "mods/do-api.pw.toml"
 hash = "706b4841293ba7e2f2f20c1ae77c597b418ebc5f528ad3977956b30822989c96"
 metafile = true
+
+[[files]]
+file = "mods/drivebywire-1.20.1-0.0.10.jar"
+hash = "6034d32d5b58d3fd8596676262165a7af3246e54abf23cc3e611366dd3f322ca"
 
 [[files]]
 file = "mods/dynamic-crosshair.pw.toml"
@@ -332,6 +371,11 @@ hash = "092df735776961b4081112ace43246dd6c8bdc2dfd0a7bab27531747038611cc"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
 file = "mods/goprone.pw.toml"
 hash = "2f6c57a2e8964e734b611d46d3f1a3f9125ffcd10840489356be28428e178c04"
 metafile = true
@@ -403,6 +447,10 @@ metafile = true
 file = "mods/just-enough-guns.pw.toml"
 hash = "dfc01c721ae208151e4f85f60295de3cb6071bf318456cfa0c64be48ff945656"
 metafile = true
+
+[[files]]
+file = "mods/kitchen_grow-0.1-1.20.1.jar"
+hash = "622b816781f76a236361f60ad2270e26ddfa3d777ea7c7634132fa02e6b553cd"
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
@@ -506,6 +554,10 @@ hash = "7731c03c84821dd4dc6400e4604b7caf64dc517099d23594c85edbf9ee9ba559"
 metafile = true
 
 [[files]]
+file = "mods/nirvana-forge-1.2.1.jar"
+hash = "46990b6ea6902442d4fda76c8e82a4f3757257c3e515f98910f06f53e15d6c23"
+
+[[files]]
 file = "mods/notenoughanimations-forge-1.10.2-mc1.20.1.jar"
 hash = "29d7567b92d8cf5f9ca06e3a901fb149318d0fca82097e5f0f5e568df9a2c120"
 
@@ -522,6 +574,15 @@ metafile = true
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "f1d88750f6d9e29d7df5fae6a1839fe8f4f69d6d19e02b053df36039f313ce2c"
 metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
+metafile = true
+
+[[files]]
+file = "mods/pattern_schematics-1.1.19+forge-1.20.1.jar"
+hash = "210e39d98104895a75253305457a9d461a8ff83d5db2fa7ddb8ab06011556f13"
 
 [[files]]
 file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
@@ -672,6 +733,16 @@ file = "mods/titanium-1.20.1-3.8.32.jar"
 hash = "75461182a955b149104d760db908af832da5e1ae1fbabf09d23cd40701d15f02"
 
 [[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "e8e2c72258f696c95099d8ecfe3cca73a96c0cbc12709c0b5877ad9d712eeae6"
+metafile = true
+
+[[files]]
+file = "mods/toughasnails-plus.pw.toml"
+hash = "310d983268602e7e51f57673821a4aa7947c2a9c5c9ef9f8963b1f8783ba52d7"
+metafile = true
+
+[[files]]
 file = "mods/tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar"
 hash = "d2bb51322abed1a97262cf639edd831e524b50b2089d1805f80307cfa113d413"
 
@@ -685,12 +756,26 @@ hash = "f6c53199a7150534f4f23b88eacb386d318a5425483a2a58bf1be17580d951cc"
 metafile = true
 
 [[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "587c108e8b070fa2798db4ab3352ea1743be5a65149f3657fb4833f7f77a60e9"
+metafile = true
+
+[[files]]
 file = "mods/valkyrienskies-120-2.3.0-beta.10.jar"
 hash = "3e32913a84bf7094e2d28903f5ea0d2b4b885d9e25286ed72ecf477a289ae5ca"
 
 [[files]]
+file = "mods/vmod.pw.toml"
+hash = "7fd322bb6f0df02208a91692500ba35adda0887e9fa78d62e4c199063f5b7c69"
+metafile = true
+
+[[files]]
 file = "mods/voicechat-forge-1.20.1-2.5.36.jar"
 hash = "2c5efe94381626fb68746db517107088c8563346ecf28182711b8b800eada678"
+
+[[files]]
+file = "mods/vs_addition-1.20.1-0.0.10+aa958d43e6.jar"
+hash = "e6515939450a3faa3dd25dd698492bf4153f0878af99c3eb42e58fa722299bae"
 
 [[files]]
 file = "mods/vulcanocraft-cc-tweaked.pw.toml"
@@ -710,6 +795,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ffca1ef4ba089cb539c1da8fbefe14131f2cdc9fbd57e76b2e7e22a733eae6fc"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "11d01f5c6edb054a02dbb29964e71223317df3e4295ba5c202115a2a7fe91048"
 metafile = true
 
 [[files]]
