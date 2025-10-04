@@ -21,10 +21,6 @@ file = "mods/Explosion-Overhaul-0.1.7.7-a Forge-1.20.1.jar"
 hash = "83d693a75fda959fe79400676402d4a6dff0951454748f16e386530464c60cff"
 
 [[files]]
-file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
-hash = "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
-
-[[files]]
 file = "mods/Jade-VS-forge-1.20.1-1.2.2.jar"
 hash = "76517d07558c7062a1291ccc2e8a1f8da9d438cae02ddc4bb6e43f43f933b041"
 
@@ -114,10 +110,6 @@ hash = "7e3119dc9014f7dbf3bc291cae05b8c9fa897e36502fd8ceefb3a9be47dfab58"
 file = "mods/cc-vs.pw.toml"
 hash = "4ed9f836bfc65be0b51882d3f5c8028900e777eaf0cdee1ad960c10f4018c851"
 metafile = true
-
-[[files]]
-file = "mods/cc_vs-1.20.1-forge-0.3.0.jar"
-hash = "87fe1948c4a7835c14748cd2712f87ec71e87cec36381c361536207c89d9b55b"
 
 [[files]]
 file = "mods/cclink-6.0.2-beta1-1.20.1.jar"
