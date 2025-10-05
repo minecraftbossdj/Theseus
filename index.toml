@@ -21,6 +21,10 @@ file = "mods/Explosion-Overhaul-0.1.7.7-a Forge-1.20.1.jar"
 hash = "83d693a75fda959fe79400676402d4a6dff0951454748f16e386530464c60cff"
 
 [[files]]
+file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+hash = "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
+
+[[files]]
 file = "mods/Jade-VS-forge-1.20.1-1.2.2.jar"
 hash = "76517d07558c7062a1291ccc2e8a1f8da9d438cae02ddc4bb6e43f43f933b041"
 
@@ -354,11 +358,6 @@ hash = "0d458bcd5c23e53b5479acdb2e9ac2f762f2a1f3b14951bf3cc4cafeabefb687"
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "092df735776961b4081112ace43246dd6c8bdc2dfd0a7bab27531747038611cc"
-metafile = true
-
-[[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
