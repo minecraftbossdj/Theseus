@@ -199,6 +199,11 @@ hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
 metafile = true
 
 [[files]]
+file = "mods/create-henry.pw.toml"
+hash = "26165ace82837e87f9ee19faabbcdc89c4877a6c6cdd7448192d9abe0ffd9cd4"
+metafile = true
+
+[[files]]
 file = "mods/create-industry.pw.toml"
 hash = "46af59eda7f6de123da20f047ee72fb750fb0cab7350daf4eaafa354065ecf9a"
 metafile = true
