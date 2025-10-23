@@ -3,3 +3,1681 @@ hash-format = "sha256"
 [[files]]
 file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
 hash = "09ee4e79bef5f715b878720111eb9e1cc18521a182fd811ba0469bbe7674b5d7"
+
+[[files]]
+file = "mods/AdvancedPeripherals-1.20.1-0.7.44r.jar"
+hash = "74e46af711325fb3e2003753cf58045dbbf3f3ce87195369a32fc786f238a423"
+
+[[files]]
+file = "mods/ClockworkAdditions-1.20.1-0.0.7-forge-and-fabric.jar"
+hash = "3eb085b83d201d6ba3a9bc3b84fed70b36a252f7cbff6611af7648b2491a79f6"
+
+[[files]]
+file = "mods/CobbleForDays-1.8.0(1).jar"
+hash = "9e7244ff134b8059fb481280505ba9d200c6d1b6e21984a3963e5dfc5794ee00"
+
+[[files]]
+file = "mods/Explosion-Overhaul-0.1.7.7-a Forge-1.20.1.jar"
+hash = "83d693a75fda959fe79400676402d4a6dff0951454748f16e386530464c60cff"
+
+[[files]]
+file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+hash = "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
+
+[[files]]
+file = "mods/Jade-VS-forge-1.20.1-1.2.2.jar"
+hash = "76517d07558c7062a1291ccc2e8a1f8da9d438cae02ddc4bb6e43f43f933b041"
+
+[[files]]
+file = "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
+hash = "7113db048da25c06d157f66d119fc17114f81b68bf47c24ed770a538e1ecee1f"
+
+[[files]]
+file = "mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar"
+hash = "2b5de085275d658e0445d783dbbcf9848c00aab8ac18cc2f664a62f44f78a18a"
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "24f06df8542a944756c56e2dc12dbf8e3b45a7072e17148a806e840a77884765"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "b5696bb652f526002175d240f046ff28d7b3236e7beafaa4f27661ff7ab55a1b"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "09e34491edbe66890f2832d56475f8a8b700ee0ca3ec3647ddc994b6ea3a87ca"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "4c020c6e06e4e23e606369112454140fb76dea802a0c4016930da3dde2d8c437"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "2868855bd6b90b1fad1c3210715fc403029f4e66368a7100854aed359005d2e4"
+metafile = true
+
+[[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "d9d0d728869827db20e5644d8785deedcf793279c1652b5e7431fa51c896f255"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "4eed9fdb398faa737bd65d8d504f7329fe30701cbff12bcec09bcdf89f49705c"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "0c8b4ed0c6aa96d8c56a02bcecda14d41f43573aea5703caed28eccc04719bbd"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "eb16cb55f26f0f8798bbb1abd2fbe3115e01d16f8eb1cb857f8d9b2e8e94452e"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "6b191a5a130b2215b5182c7e57acc51d6c7007a3771ce02609c16936eb68902d"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "c56aa640a480154eb06183d08e2459a3a7f9472810c32dcde0aa2158dbd241c7"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
+file = "mods/carryon-vs-compat.pw.toml"
+hash = "702433eedd02735d948b78c6c976dbb4b1fb8edf07888fdd2a35892a55a46777"
+metafile = true
+
+[[files]]
+file = "mods/caverns-and-chasms.pw.toml"
+hash = "7b4c85eba70a03330a81aa40056840f44b84d33bcc97d95d6bfd014130c05e0e"
+metafile = true
+
+[[files]]
+file = "mods/cbc-more-shells.pw.toml"
+hash = "ac3d121d41cd2ebef208421d4adc90d7b19720c7395ddaee99536784a2e4fd53"
+metafile = true
+
+[[files]]
+file = "mods/cbcmodernwarfare-0.0.6c+mc.1.20.1-forge.jar"
+hash = "7e3119dc9014f7dbf3bc291cae05b8c9fa897e36502fd8ceefb3a9be47dfab58"
+
+[[files]]
+file = "mods/cc-link.pw.toml"
+hash = "d9ee2811355edc39ec1cedb7b1967f1aeb83670e0267161ddffecd948eb3124c"
+metafile = true
+
+[[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "4ed9f836bfc65be0b51882d3f5c8028900e777eaf0cdee1ad960c10f4018c851"
+metafile = true
+
+[[files]]
+file = "mods/ccshenanigans-1.0.jar"
+hash = "49116a0fe294a4939a9f00b0c16c247110d1db2130b4f1281a5e3b5f4c898917"
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "fb3b04c892cf9c4ada0053e3cedff82016cdf1d2147327675f9367c8a1be383a"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7be168c92f3f0dd1b249076055d295ef3ac57538678651726d9e8a6379e4f9d4"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "a42ad3bf7bab4fdf9d2312695788414ee6358f3dd71ce7bad959c903601b14d5"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "c4402050d2a686cecc112aee451709d33c7c367021e6527a3786a0c458026d8f"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "8c236438b6b3647f7e2d2df18ad3a737e9268e3b265fdf536163d2f55bfd984e"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d606b7407e7fb352a89d59f2ccb849779184685f1c731024ec16e7f66116e71e"
+metafile = true
+
+[[files]]
+file = "mods/corpse-forge-1.20.1-1.0.21.jar"
+hash = "0942a6af3d0e472aab8db271dce2424bedc2ec9bdd10181fd7a62f832b2a407f"
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "9bbbe8e6fc4cbddc22babd3045ce1a75d58ce5d25c5fbe132042b2625e2c0518"
+metafile = true
+
+[[files]]
+file = "mods/create-air-forge.pw.toml"
+hash = "ff0fa13b300d526ef0ad5067b923766cc3d7680bff7c31480670e6b50ca876fa"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons-advanced-technologies.pw.toml"
+hash = "21a130575790425355c5d74fe85f869f16c77fd508cb7613ce336d8c8af70685"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "23bb6a77fc7bdc08ec49c2dd463a0bde5f2da7fd1aa471a2879398ae707310af"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "3c9711cb5141e72ce75cd9f2caf82d0bbbcdcb33e6be9ea526a521e01e01028c"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "5e9f55362b78cb750f69010f196d0c7169dd20bafe053c30cb2f8497bd70bd8b"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
+metafile = true
+
+[[files]]
+file = "mods/create-industry.pw.toml"
+hash = "46af59eda7f6de123da20f047ee72fb750fb0cab7350daf4eaafa354065ecf9a"
+metafile = true
+
+[[files]]
+file = "mods/create-interactive.pw.toml"
+hash = "a860066603f2502923c9a2055688b3827c81e549aa89dd2526a8337e22095645"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "7ecd1845a88f3ae36682a1ddb6c36a20acf906e223fab20562c3953154a7b571"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "e2938afd2c72819f884c139ff95c4fe41fef1a546e3bd9b2f863066c5f005104"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion.pw.toml"
+hash = "aead689bb73382674b210fa262bad52f530e9d2abc764b9a1db7c75b3914e074"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "eb7a5cb666ad7488711b3a64c2a7512bcdbe0694365404c63a53e4d42639af3f"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "cc4c232217fa4f23ba5b9840b01b1a02190319065963720a136a05e2f0cbd35b"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "f7af3613a8729d82920d88edc8e02e6cc91d9ea3173d73bb66f394ab8c8699db"
+metafile = true
+
+[[files]]
+file = "mods/create_connected-0.9.4-mc1.20.1-all.jar"
+hash = "74550c7f35c87c064ad0d94dced6b22e18d23ae15b8d3c8eb5afe4d4023e4114"
+
+[[files]]
+file = "mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar"
+hash = "db605fb4f4f760fbca3cb25cf36289a3bf61f808daf08b7d514b9a1d7a89ae31"
+
+[[files]]
+file = "mods/create_eureka-1.1.0.r-forge-1.20.1.jar"
+hash = "14f351b474b1df8fb51c5eb46a5abcfd2699b6ea0e6af0d5932d809c2b1c7a38"
+
+[[files]]
+file = "mods/create_radar-0.2.136+mc1.20.1-all.jar"
+hash = "ec6791d3770a30a13a4eea7685839db9cc6e771a8a111a2405588c388c07c658"
+
+[[files]]
+file = "mods/createaddition-1.20.1-1.2.5.jar"
+hash = "e6277dc5f058cccd55ed4aa802a00faf44fc5e8d0d9ecf57928c4a412123aa92"
+
+[[files]]
+file = "mods/createdeco-2.0.2-1.20.1-forge.jar"
+hash = "f2e6e196603c13b23063a376b09aac74c7f76348cde45de5256bb68f2e9566c1"
+
+[[files]]
+file = "mods/createendertransmission-2.0.7-1.20.1.jar"
+hash = "84d5c38dea8a887406216121eb34d5dab938a45db522904468dc7db200e47034"
+
+[[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "0b950838be05071463a92be7e41641222d0b194ec5d1c5865850acd301471f02"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "2315ee878582fc134f47a2e9180ac740ce0df71d48fd55e14657442b3b75061a"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "72a867977697dce084eff67f425cf91feb0928e74fe9c5b5db9769f2bc98c074"
+metafile = true
+
+[[files]]
+file = "mods/destroy-1.20.1-0.1.1-snapshot-i+0.jar"
+hash = "03c5131c04dc2e3f368bb998d00da24c8bc059a3fa27fddbb3601a9dc77cafca"
+
+[[files]]
+file = "mods/diet.pw.toml"
+hash = "2be152619605a8aa049f53e76a8844813d713085bc027eaf5f1a42949c4c158e"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "706b4841293ba7e2f2f20c1ae77c597b418ebc5f528ad3977956b30822989c96"
+metafile = true
+
+[[files]]
+file = "mods/drivebywire-1.20.1-0.0.10.jar"
+hash = "6034d32d5b58d3fd8596676262165a7af3246e54abf23cc3e611366dd3f322ca"
+
+[[files]]
+file = "mods/dynamic-crosshair.pw.toml"
+hash = "e60152d0b27ba0ba0c8efa02c25944537934d3e118580ad4a8fa5c43144f2ab5"
+metafile = true
+
+[[files]]
+file = "mods/effortless-1.20.1-3.4.0.jar"
+hash = "24cbbffe480eb65126af382e1e09d79fdf51862f7f71e27dcdc5e1ac68fd194c"
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "c9c096ae4682e51ef38f36271b5b97f7753984d03f64df62247cad4424b30e56"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "885b411d5b49cb42c72510a507e1ac8fbfb8d87b8b86b11e756141aabfcfb24b"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-ai.pw.toml"
+hash = "c64c7b2f5d33b603c944a717a373a4d16e8e450cce91f7b2a90a6a7eaf2709e8"
+metafile = true
+
+[[files]]
+file = "mods/essential-mod.pw.toml"
+hash = "39303246bc0674db58f502d259f2b3070e094cc4f89bd12f92db4f7312f05432"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "0dd674ffc31ca71a0a88f06018fd9df189d3a1922a844b74601ebf56f6585ded"
+metafile = true
+
+[[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "02706551415275066660bcbb2b3b7716835c4ce8697044925b2d9c541064243c"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "8954b31f77f7b7dc720a5143d4c3bd2827872eebb5a7582d763cb06a735c6e49"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "98f868b07a8fe0009ce6e830683d3a70894e30da2f12af92bdb8fa16cbb26bb2"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "a9102d609587827231935f8fb6f2998c082e84ba4e4af69c8164a6cc7a95d10a"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "90bc1852b27b9eaf9f02bafbc6443650dc2d6753afd3be11a8ad14a5c7a62173"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "c442358994c36d3dc41761c52c96afa145333afd0d63d7cc4c8bff8c77d56601"
+metafile = true
+
+[[files]]
+file = "mods/functionalstorage-1.20.1-1.2.13.jar"
+hash = "0d458bcd5c23e53b5479acdb2e9ac2f762f2a1f3b14951bf3cc4cafeabefb687"
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "092df735776961b4081112ace43246dd6c8bdc2dfd0a7bab27531747038611cc"
+metafile = true
+
+[[files]]
+file = "mods/goprone.pw.toml"
+hash = "2f6c57a2e8964e734b611d46d3f1a3f9125ffcd10840489356be28428e178c04"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "7e08306d0829a22ce4851a0ff0793ddbcf8ed8ee87f8f24fd32cc77337080528"
+metafile = true
+
+[[files]]
+file = "mods/gundurability-1.8.2-all.jar"
+hash = "b0210adabcd43f7288f4d9d72fb88ec6880e858b80147a3464d37980de72c0d4"
+
+[[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "d8f4fe0af6a1a4fb38e28bd63917c1c72c164d6dc08357a487f4a63dd0f4253b"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "c9192710a45b21b2034ab2bdc797c7bad235eac28acf1cefd091184310ca2434"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "a8c4de6681a15c97563519367b604790e7d7cf60e8590bfa26e1dcb1a4b3a332"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering-forge.pw.toml"
+hash = "a393c1eed533684a88c95928dfddf0d9850f7ddba1f1b5a7658498542f047223"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "8c04c1d03f3d5af44e1ba30663b21c64fd29fd4d9a5ae93afb9ef87f9a3ed27d"
+metafile = true
+
+[[files]]
+file = "mods/ironchest-1.20.1-14.4.4.jar"
+hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "6941f1f6137a45c8adbe4d6665eb3fcd370f5afc88fae00b604982e342006c54"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "97497316653eead8f6f399d46bf7da58e28d009d4287a07564878540bac91ff3"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "95bc534f33299aed2ba4ad23f087879fd3f2902a842520364ef90ba976128266"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fca9a6a36d23aad34b7e11e194ace003f7cecf22fbfc8d479467622a2e5d99dc"
+metafile = true
+
+[[files]]
+file = "mods/jsconfig.pw.toml"
+hash = "0868cbce5ced9db1e556c3c4e9f21c76086e3a6e02d37c1e7fdaf97cfb992d22"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-guns.pw.toml"
+hash = "dfc01c721ae208151e4f85f60295de3cb6071bf318456cfa0c64be48ff945656"
+metafile = true
+
+[[files]]
+file = "mods/kitchen_grow-0.1-1.20.1.jar"
+hash = "622b816781f76a236361f60ad2270e26ddfa3d777ea7c7634132fa02e6b553cd"
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "5e8c6988b1a3e4edd1aefb16ba6a4eb4ea39c3ed1509e4cdac20f4ab866daf10"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "5a34a6de28e47ad9aa09b5563d30a23999d93f78054fde625efc25852b3d223d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "61e26805b807666f611bdeb373807e61e1883b662c003317216622baa935c846"
+metafile = true
+
+[[files]]
+file = "mods/legendary-survival-overhaul.pw.toml"
+hash = "77891008e23f756ca4b224b79bece59de296f607d219ba008f4f43bbe9ca6985"
+metafile = true
+
+[[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "063908d3575a8d3baa94e6139612e5f6bb937bdee84af14f22af80858fc64e58"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farm-charm-compat.pw.toml"
+hash = "a1f63dc077e9fcb4b01d98c5af8cf52c38804dfb4ef078973568cdbe34ba615b"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "f225a451297ed560b492b196dd2483e973998605b859b8b13c082ac97bf79e99"
+metafile = true
+
+[[files]]
+file = "mods/lightmanscurrency-1.20.1-2.2.6.4.jar"
+hash = "e0851ec1214aae3f781cac3f42ec37fb30061b668bd97f9dae465eb2a578c161"
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "0322ab82ff88dc96090b00e8b3ab5aca997170aafa0405ef4883a8198e890197"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "8069f8641f4072f7140ed5b04fc6e700f5a3ee18bda63429a1dfa6f7d1dc2a88"
+metafile = true
+
+[[files]]
+file = "mods/lostcities-1.20-7.4.3.jar"
+hash = "447fc6b5b25daeb1f807cbec93942146a516f44a3602f264ff9844a4a2818fcc"
+
+[[files]]
+file = "mods/lostcities-modern-tweaks-v1.0.10.jar"
+hash = "878d7690f373219db5c7574e7e0fa661b068571fa03674e7ece9c7cc38b9dd3b"
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "2e11b78a3553c194f7c0ffe464f63fc0ec372c90f535be3a1c8e5a6ac00e101e"
+metafile = true
+
+[[files]]
+file = "mods/markdown_manual-MC1.20.1-forge-1.2.5+c3f0b88.jar"
+hash = "13711f030faa4a6951623c5dc487720cae6b0ed3f28653fe7c704c274d56af1b"
+
+[[files]]
+file = "mods/maxstuff.pw.toml"
+hash = "8f8d3495cb6ed5a7add318ad921e5b81cda66e6999b1a80779a228d279d4f7d8"
+metafile = true
+
+[[files]]
+file = "mods/mo-than-enough-guns.pw.toml"
+hash = "6e3df3a9146d774116e047ea583201fc355d1085656dd4e2a3a2144096387c38"
+metafile = true
+
+[[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "66f5588a1e18dff4338cf67170eb089dce442a7c3d441e8bcc79bbaaf5f2d704"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "9535232a166483b6fc8daafa25c7e431c2ed18f1ed9ae11fe2004db72fca68e6"
+metafile = true
+
+[[files]]
+file = "mods/more-peripherals.pw.toml"
+hash = "9f64031a8114d1980281a2476c6db63549f409bb07d8bc0b6a01394238072d17"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7c323d0b883a0178d2fbb6c5da22e907420e06484a00c18bfe8c19ccbe502833"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "7731c03c84821dd4dc6400e4604b7caf64dc517099d23594c85edbf9ee9ba559"
+metafile = true
+
+[[files]]
+file = "mods/notenoughanimations-forge-1.10.2-mc1.20.1.jar"
+hash = "29d7567b92d8cf5f9ca06e3a901fb149318d0fca82097e5f0f5e568df9a2c120"
+
+[[files]]
+file = "mods/oc2r-1.20.1-forge-2.2.6-all.jar"
+hash = "6487ce20841902ffbca7cebb28c687a6043a4f97f2932890cedc1b927e49c4c8"
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "7650bde6226c1709f24307c99ce6fe313878bbb3f437e2ffb12c2f280d46889c"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "f1d88750f6d9e29d7df5fae6a1839fe8f4f69d6d19e02b053df36039f313ce2c"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
+metafile = true
+
+[[files]]
+file = "mods/pattern_schematics-1.1.19+forge-1.20.1.jar"
+hash = "210e39d98104895a75253305457a9d461a8ff83d5db2fa7ddb8ab06011556f13"
+
+[[files]]
+file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
+hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
+
+[[files]]
+file = "mods/petrolsparts-1.20.1-1.1.5.jar"
+hash = "733399e6f17f0935f2cd5b1f05eae52821ee7083bc19a6a965ce4b648c4a2a8c"
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "6208fb5a8e0d42ff78f11486ba63e8c50ffa55b406a366f74feb0bb42dacee9b"
+metafile = true
+
+[[files]]
+file = "mods/playing-cards-chips.pw.toml"
+hash = "05df6f3c7be7bc79010ca310ad88f72a6720f27dadfb65561aa2cbcacb0e984e"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "3b000e049ac109518d3a06b46d7b666a67e12d88efa11f8b7dd0e358729b11e0"
+metafile = true
+
+[[files]]
+file = "mods/post-production-backported.pw.toml"
+hash = "1e384ff00777d93f018dd57ad236c5eacac96a3252a7fbc7328b4d1e0ee6f979"
+metafile = true
+
+[[files]]
+file = "mods/project-1029454.pw.toml"
+hash = "fad42cf1625fd8593e35ee57a03c8be815e3d72dd91c69107eb58fe54af4bce5"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "b838546bd0dbe5d0bd9e000bb548f669946030bb35b0583b53f76027b3e9adba"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "c61b9de69b78020007a6dde5ddb598fd996e79a13d1ad1bbbbe2f2bb86668aaa"
+metafile = true
+
+[[files]]
+file = "mods/rbasamoyais-betsy-ross.pw.toml"
+hash = "093738be34a389fd3f9692132e501d65602bfae100a91d0147833f727628a7a7"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "4fcfa912e5663f1445fe3c4df7cd05a4dae2b3f828b5cea8865c71c1c305050b"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "40822d840f9b4c1974978304301993f57d31ba4b99c5ef3b29df7376b6f9d93e"
+metafile = true
+
+[[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "b7cee7429f7c3f21d7c41b6760b0fd4a5d821e7bace1602972d99ce01eba7b91"
+metafile = true
+
+[[files]]
+file = "mods/s_a_b-1.4.3.jar"
+hash = "36f06b91693a772c6d49874085c6a41aeca9a56e8561eb6cd279e2cc62ab6e6f"
+
+[[files]]
+file = "mods/sandfilter-1.0.2.jar"
+hash = "0b3d0b48aafa54aa17c747bb2db546551e647b96325feeb1a6a5e286bb9f37ba"
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "58f5287a228d8feeed9ff1110b71cea3520b7c26187fa957834b65ac28044bda"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "3561d83aa9f4f9309d45e389873029c52b7ad2aace2b5b9fe7ca9a2cc1ff3e04"
+metafile = true
+
+[[files]]
+file = "mods/skinlayers3d-forge-1.9.0-mc1.20.1.jar"
+hash = "f7c04c9e9a3d9f0f9ab99d7277fb778900302f1eef4922cc687dab2d05577310"
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "2b9a690f90e1d8a02eaaf00abbb1b212cab29125e6884f05bdcf316c4d435753"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "6503a192b332dfb7066d2e89e259897d476260ee86d40342c42e3ed9fa3a0691"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "6fa6fe783bca3eda7e33d3a494002f0f16316a079020ec84e1f531b5783c0341"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "7a8e56458d1c3e7f4131e28d51a363a0ffb51ffb327851c81ad1a7b7da8293a9"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "348b223eee9f72f4c43e14f8bd1634f2b5d0b7b634d6c75f6e9b64f0a6cf032c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "fc2660399c233b9769f170c4a9425317d7d158055a5a519bf48770174313aa25"
+metafile = true
+
+[[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "610b3b7cdd5b76475983ee0bbe295f1446983bfd32e57e9f7dcdf3e418a894dc"
+metafile = true
+
+[[files]]
+file = "mods/tacz-endless-ammo.pw.toml"
+hash = "c0d10021c3bbc613c5668dd158823cdc3f63fa0a6b8113366b119335e6e314af"
+metafile = true
+
+[[files]]
+file = "mods/tacz-js.pw.toml"
+hash = "bff63dd42e83445e3b33e225d54181ff2ab5cebca083ce38e47454aa14297cc2"
+metafile = true
+
+[[files]]
+file = "mods/tconstructjs.pw.toml"
+hash = "61ded44ab140a43601e7223b03b7d34380d788cf08d1c5b7df4395dc52c4098a"
+metafile = true
+
+[[files]]
+file = "mods/thin-air.pw.toml"
+hash = "101c098261ed2f26dd0a53e0d08a260cb4358b63c6c9434651670e4d0fbc706d"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "81dbe2ce5ee0258db2eabe8d42f8c7cb89b6a108d36c5ecfff110fce226434ea"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "b6c948d0bd60b2dc11bb26379cd7643e9206f729f19b3fff864b6cb15d3996ed"
+metafile = true
+
+[[files]]
+file = "mods/titanium-1.20.1-3.8.32.jar"
+hash = "75461182a955b149104d760db908af832da5e1ae1fbabf09d23cd40701d15f02"
+
+[[files]]
+file = "mods/tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar"
+hash = "d2bb51322abed1a97262cf639edd831e524b50b2089d1805f80307cfa113d413"
+
+[[files]]
+file = "mods/trackwork-1.20.1-1.1.1b.jar"
+hash = "d27b72824e2cfe329aaf5538d7f3d2142f9fc793b2f708f7a13d92b4a68f7837"
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "f6c53199a7150534f4f23b88eacb386d318a5425483a2a58bf1be17580d951cc"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "587c108e8b070fa2798db4ab3352ea1743be5a65149f3657fb4833f7f77a60e9"
+metafile = true
+
+[[files]]
+file = "mods/valkyrienskies-120-2.3.0-beta.10.jar"
+hash = "3e32913a84bf7094e2d28903f5ea0d2b4b885d9e25286ed72ecf477a289ae5ca"
+
+[[files]]
+file = "mods/vmod.pw.toml"
+hash = "7fd322bb6f0df02208a91692500ba35adda0887e9fa78d62e4c199063f5b7c69"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-forge-1.20.1-2.5.36.jar"
+hash = "2c5efe94381626fb68746db517107088c8563346ecf28182711b8b800eada678"
+
+[[files]]
+file = "mods/vs_addition-1.20.1-0.0.10+aa958d43e6.jar"
+hash = "e6515939450a3faa3dd25dd698492bf4153f0878af99c3eb42e58fa722299bae"
+
+[[files]]
+file = "mods/vstuff.pw.toml"
+hash = "649e4674972f523c3d19158611f14ecdced000249211c46ef91730c78bf65a1a"
+metafile = true
+
+[[files]]
+file = "mods/vulcanocraft-cc-tweaked.pw.toml"
+hash = "08e453f8651ef9feb8fd9d18ce2c7bafa4c3b40340f63f4a102e05e22bca25fa"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "7ee472a420b348b03bfd736412b5e8f2a35206f06a5695a76900b83ebf828c0d"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "4ce0b964b7e35a63bac67e30a6229398a2d1fa61df0bd19b8d01d67bb505267f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ffca1ef4ba089cb539c1da8fbefe14131f2cdc9fbd57e76b2e7e22a733eae6fc"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "11d01f5c6edb054a02dbb29964e71223317df3e4295ba5c202115a2a7fe91048"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "443be75ba198121cefefc3da417e2ec586c2ac27d91fa3b9516f8b569f96974b"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "eb4b8a201a812238ff5bd1f814b70d5bac1de9226fc80e82064156b6c294c45f"
+metafile = true
+
+[[files]]
+file = "tacz/ARIPS_ver.1.3.0.zip"
+hash = "5bc39b5709e405e277e3488fb2c9bb34f79061b5c4206b6df2fd62bd95b129f3"
+
+[[files]]
+file = "tacz/endlessammo/assets/ea/gunpack_info.json"
+hash = "aefa309bf0a1478f9b523018b07833539425c075c471d8de555efa5404f9a29d"
+
+[[files]]
+file = "tacz/endlessammo/endlessammo.zip"
+hash = "bd63c233775b1f3393fafbafb4d4503949ee256a50075e1644aa152b051362b6"
+
+[[files]]
+file = "tacz/endlessammo/gunpack.meta.json"
+hash = "20bdc5841a3e070dc2c9771120dba02e96b4a8296f4e8c11b33091d141f54272"
+
+[[files]]
+file = "tacz/gucci_vuitton_attachment/gunpack.meta.json"
+hash = "ea14b00465f18fb9636d7719e38aa5cccfca901e6ee57edd829ef7b9fcc8366b"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/1851.animation.json"
+hash = "ef7c9865d03223dbe2f5fa94f02353dfc4ca6ad1d77c67d525b0d8ccd01da1d0"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/1851_navy.animation.json"
+hash = "acf6d04298f199b1cfbd615606329ce807aa3b12f5f2aa3969b5902185d5feac"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/adar2.animation.json"
+hash = "75b9ba07c79bda76bedb19ae170dd3075058ec7c7a4e2fa421282c084425eb35"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/af2011.animation.json"
+hash = "5270ca0ffdf680c20d52603160929be1316467737e85f683ecf94904b584c92b"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ak108.animation.json"
+hash = "71e13d06ff598f4e822af386999035c18204bcc1fe1b113587c7b2336165c214"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ak12.animation.json"
+hash = "77e1455a4099dce7d801403706e773c83e1954f481286b5a83105bdf3ac1df7e"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ak15.animation.json"
+hash = "bb014f723440537c1cdec15f53a111c454a03252638544e52bd2bd4fa8611274"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ak74m.animation.json"
+hash = "71e13d06ff598f4e822af386999035c18204bcc1fe1b113587c7b2336165c214"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ak9.animation.json"
+hash = "800ddcd755f53c10aee6ca244bee8a2fcb08a8f49a54a8b915e2eef7348750a6"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ak_alpha.animation.json"
+hash = "7f720e585d27fa51a4c8c287fbcdbc5dbf5777f037432e48d900968bd5cdc80b"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ak_delta.animation.json"
+hash = "26b3a8af8e635e27ec860e298341c71f045e3116b5b1a56d7009c4a1c4534b81"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/aks74u.animation.json"
+hash = "d17dcaccbfda1769df45dfd345d5668a1dfe46ce591e988dbf5e6131a078e2bb"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ar10.animation.json"
+hash = "b13a782e04b340312a4e4bb2513ad11cd3b7682d1bae449fd3f4b684041ff135"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ar18.animation.json"
+hash = "eb442677c49f971a8e8b8aa9f2bc6d790111bb478c4cc6f42a8e800be85e6468"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ar57.animation.json"
+hash = "da97be9954dc1d5899d51e3418e4ef3b9aa484c7d14963d55245ae3cd5b1fbbe"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/ar762.animation.json"
+hash = "1d9607451cf487eeb2dcd342b936e3fe3733e52e5c6de35966ad1598a220f4f2"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/arp.animation.json"
+hash = "be2f179dec9117fbd1fc7ad4754c1bab936b768ae476bf8b23d8259e179e7675"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/aug_a3_para.animation.json"
+hash = "886f599a147ce868644db8950d4b0c029b410a25ae564252f78a4fc5566d896b"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/aug_a5.animation.json"
+hash = "4025530a39eba359d69330fbb778ce93b6117043ed02876586682b0f2d1dc605"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/aug_hbar.animation.json"
+hash = "c6fcb536e75a2b4a2167a0988d40ab06e976ef894d358f6769758ccd30ab80c9"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/bfg50.animation.json"
+hash = "b0dcecfcc8c932725da1f29d082a9dfba127ee4c4cb3e9478a123b13f57f1df7"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/brn10.animation.json"
+hash = "3329352f0df809099018e1bb79a2beec25ef42c8892ea326435e7b801d33753e"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/c96.animation.json"
+hash = "b70033a9adfe31515731cbe7c39f2339d6815689e727168bf2b7713747e34e55"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/can_cannon.animation.json"
+hash = "4aabd2871e5d9bcd3daceecdddede7ebfc8a05e47fe76cc55dfe70f7370ab5c5"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/cursed15.animation.json"
+hash = "b9b9e2313378597a06cc75b1f103bfecbbe7fc319066b32167d1497f254171b7"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/db_50.animation.json"
+hash = "e5362d07ceb49a2e6e49344341a8fe00b4e9cae0994d93e0298eccf820abfbb0"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/deagle_50bmg.animation.json"
+hash = "2a7b27219a308018d20092f58d16c398b1c8b1d01ab7fed70e82fabdbe1eb7f1"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/dp28.animation.json"
+hash = "61512304f64f029522cbfd171a401e4b7eaf07323d628c64befd5d6ebf33ffa5"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/dragonuv_svd.animation.json"
+hash = "62d39dc169e3df1136e06ca3415208ea5f9e427aa1a96ac24d546e89d72ba770"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/excaliber.animation.json"
+hash = "d00e19f14cd61eee390f8628b9110c5c31da0d886b910ced4cd56fcb8b9739c1"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/g36.animation.json"
+hash = "22e0d18ff365bdb2182faa0a68f0a4e87d9b3a5b7082ea319866756394c98572"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/genesis12.animation.json"
+hash = "d6039997f19ed41dd853e7df875d33e6ebd318783c8a8d8bd1dad1ac62737434"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/glock_18c.gltf"
+hash = "541e5ed2df6d1ce724411438416ae4e9c49d8533c15887d0478cf5de28b8575f"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/glock_54.animation.json"
+hash = "7cd4f7268dae72640994452e3e3dc9c985ab5f3e2263bab83e86c7ee86d570a1"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/glock_bulpup.animation.json"
+hash = "eb3e6144a6a74af3a2e8e61b6fc9d7c6e926302898e8a7f7839d8143de3f366b"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/gm6_lynx.animation.json"
+hash = "ddb37dc8bf094313fb585711bed2eea784f753671f6a461e101c0e3e499d7bad"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/hk416c.animation.json"
+hash = "46c97a4d00bce7a8a552595783ca9d3b7b0d55e5549e9f0be1e4c87d7d0b7dba"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/hk417.animation.json"
+hash = "ee05f7a82bd3e6cc257dbd78dbe2a9dad20f9d1239623db0bc1075d157fcf0da"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/honey_badger.animation.json"
+hash = "6cebf6fc3643a86747c223ee0b96f8cff4cc859f01fddc2a66d2180ea5a6a074"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/kar98.animation.json"
+hash = "dd8cea0e6141f58bcd25d343e4bfe2ff1da3c18d8dadb8ea326a0c6d521c65a6"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/luty.animation.json"
+hash = "c6cc3982ed7028ecaa721d3c466798a7131f82bc6d4f6d2d8d73fb62ca0b8c5b"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/m1_garand.animation.json"
+hash = "95e2534454e27d116b0584e24ce1b7d90ee07fff923267b3ffdd3ea558e2f775"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/m82a2.animation.json"
+hash = "b8d088ac1fb9cbd58246a706b2b21ba17b6ad82448a20659dc60189041bc41be"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/mini_fix.animation.json"
+hash = "3a3b59a69e8a33339f8238c260f3a8a7015c1087d16d1c12f69875c42c78c53f"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/mk18_mjolnir.animation.json"
+hash = "248a97a2d8ae14e11b885a0daa4b2d754d8f550148a642c2f3d0a6912cfdac2a"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/mk23.animation.json"
+hash = "eb5421ad36ce22e85c861857bc8ec23107d9669e7dfab521967e74467c0eecdb"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/mk47.animation.json"
+hash = "419e461e1830f3c669f4f830ddf083157b6205df3431da1a3d79b7482b882deb"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/mp5k.gltf"
+hash = "db138099136c97b1b96f4622bab0fef93767bbe0ad8b0ec57a080ed25da24b4d"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/mp7.animation.json"
+hash = "06f7a555f71e354e095d72364949229814c6cf07fd2943f7dfe8191ec9e4a399"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/mrad.animation.json"
+hash = "6f22240be4f67650910f5bd76483708ea7bff3d34bbf30ea91a8835b0f970f2d"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/msr.animation.json"
+hash = "feeca6758513ebf2794b11b6752187706b9d6e1b1b1c987b23ad7d30aa1415c8"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/qbz_97.animation.json"
+hash = "0f20c608fe4fe253f11aa41da5189573a1541f9ec771ba1369c7766fc3db32d5"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/quatro15.animation.json"
+hash = "2dc1f993df88a33430b7a7c4d8029343e9ba57023ce63ea114d7b82e6401be47"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/saiga12.animation.json"
+hash = "d249c894c4c20b1328744b0187b9edfdb911e527b953c30a9ab5fa0fed888f90"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/sap6.animation.json"
+hash = "2ead3b03df38cd85e996a321441a48ce9c3551b3056afbedb731e025cd83379a"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/scar_hamr.animation.json"
+hash = "a462e8eee76f0ed09c07596bf522b06c912ece4bd86a849d031aca386d2a93b0"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/scar_ssr.animation.json"
+hash = "36f32464c154f8f5ac386472de62b47815993456916f8f4058207a8c7f1eed46"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/sks_wooden.animation.json"
+hash = "f6366c6def058814a2d9cb761cae62c9db2a661eae46eda6df2a927fcf9b0c6d"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/sr15.animation.json"
+hash = "88c78d1d0f31716314dfe4469527fc27c81f8d6e75a60cf61b784bc8a305eba0"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/sten.animation.json"
+hash = "bf8b01cbb078df17c35faaaeaacc94279d4b12a795c81b8ec90c9f2305bc4e52"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/thunderbird.animation.json"
+hash = "8a26a8ce49c7ee1fdb1d5519f6162bad814d93e5a1ad41112638177c5f4870b2"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/udp9.animation.json"
+hash = "bda69ddd0b35bc20522f2f0be9b81b4ab8b120bf9f1647f6640af7fba4bb2212"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/vityas.animation.json"
+hash = "4420b55ef064a8dd85518ae909d710b07ad7d11e3c7580ffe807bf433a5aa4e7"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/z15.animation.json"
+hash = "868b8e614f12f85746e3a7be70d4597fea2b3803446a84765117ca9c98e3d9c2"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/animations/z80.animation.json"
+hash = "794fc4a899d7d0d82712155abef010ed8bf87a5ec276aec6b7da5d2434cd5527"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/gunpack_info.json"
+hash = "3ac7ad753464722c6af049c02c1cd034527a7735d078d254c7990f0f6a715b36"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/lang/en_us.json"
+hash = "dc1cbf3cb6db4d807df04592c3e0d92ae920ec080a3974376cb5f8d3b3f87da0"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/scripts/excaliber_state_machine.lua"
+hash = "58b5338c6df2cd98b947e03b93b6ae533e42df428748a31b5ba2a7f8af60cbbf"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/scripts/kar98_state_machine.lua"
+hash = "b2bc4c7e1cb04cb19d8828bbe3623ca6c776b8c5416a803f0d0f53af73cdc785"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/scripts/m1_garand_state_machine.lua"
+hash = "a335efc315a674dfd56aadb59f7a297e6148cc7efdc9fa4c7834c89bac051342"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/scripts/mk23_state_machine.lua"
+hash = "555259e4dba3e0dc8c0c8b2ff22ebb1f5dc2486fab406cee3925d7b219c91166"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/scripts/sr16_state_machine.lua"
+hash = "247295f96c217d951ecbca71e241b40fba67a0fcedff316b18c19cff4fecc736"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/adar2/adar2_shoot.ogg"
+hash = "8e064999b58ce19205859aeca8887abf4166188da51a51cc8f309b045f6e60a5"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/adar2/adar2_silence.ogg"
+hash = "f290cbec226591163fea08fec644a8f771ca2f59c3c81948abc6afece0758876"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/ak15/ak15_shoot.ogg"
+hash = "36620343dd1824550d01a8173a478363fd3de172ec269b584e1546a81f08b0e6"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/ak15/ak15_shoot_3p.ogg"
+hash = "eeef388d4867efafc1741a7bc39427205ff1668643f20a919e5edd293c5116d4"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/ak15/ak15_silence.ogg"
+hash = "e4127dfd3f64bb28cf28b73c25c815de486b6293f64ca8aef9bd27c64f838f8a"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/ak15/ak15_silence_3p.ogg"
+hash = "47a8e78f14881cc82acc3f3ebc6aeac0cfda27d78f2475a3a3638af224accee1"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/ak47/ak47_inspect.ogg"
+hash = "8d1227fba8338b2eb6e1c5c310b230c08bca3cb41c3c59c4042a90f2ddbbaa4d"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/ak47/ak47_inspect_empty.ogg"
+hash = "f6b70188258b22d33950063988ff686cf8bb620d3b8cdc344dcaaa68d1b3b837"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/ak47/ak47_reload_empty.ogg"
+hash = "9c7c9058c5835dfc578bbfa07f31c6d495a11643ec432d4376b99ee3fa2d3dd4"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/ak47/ak47_reload_tactical.ogg"
+hash = "5c0468db92644a457d9d248ad2aaaa45c0ad2672f031c2b95ea3def2a9c0c438"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/db_50/db50_shoot.ogg"
+hash = "5f2e6ab5172f4aac9bc19933052ddaa071cc7c835ddea74dd02ea226aa958796"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/loudened.ogg"
+hash = "49f6be4ca0182ba22218d059320d9410b933a9d15b85f4b81aece05829c9142b"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/sks_wooden/sks_wooden_shoot.ogg"
+hash = "6e95fb3cd2263b613398485470acaedc8938eb4ebce4fd87ac8bad7578659717"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/svd/svd_reload_empty.ogg"
+hash = "43f556d34d01cf3176d6dcb7f39cda380f130da3f3cc3402c7a8e8cdf3f4e75c"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/svd/svd_reload_tactical.ogg"
+hash = "2673abbe9754b27813f86776b78dab9c8948ef55a8bb7f086e46ab7002597057"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/svd/svd_shoot.ogg"
+hash = "896ea9e60d2abeffaecf632f6275e8b189bb295c51476289fbdb057c8d653edc"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/svd/svd_shoot_3p.ogg"
+hash = "8ba25db1f2ce0ce0338139f04c58c0ea150faba3db0df7d48922cde233ceedbc"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/svd/svd_silence.ogg"
+hash = "27ecd09d7820526be78bdb25c721c33af1d19267a4a1f9770a9429525e672eaf"
+
+[[files]]
+file = "tacz/maxstuff/assets/maxstuff/tacz_sounds/svd/svd_silence_3p.ogg"
+hash = "a5e09e277cb8e868aaa42beba78f68fe3668deaf12e913f667e584e2db8d1def"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_draw.ogg"
+hash = "c2b1007007136d29a691b32291e4fc3011813aebf1bc8551c4a82454513f49be"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_inspect_mvmt_1.ogg"
+hash = "d8bae2e5331bea97bc4b71384dc3aa30318c94143400789454746fff2569f948"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_inspect_mvmt_2.ogg"
+hash = "288f1150a395e994532e995f1159ad4725542461bccae6e1fbebfa4a71dbbc10"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_inspect_mvmt_5.ogg"
+hash = "885568354704e3476c6be8ea7a92392715f0bd0ab2ba6d79be1020e4a7e59d9e"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_inspect_mvmt_6.ogg"
+hash = "6c8334e7e3c5bd7ec892fc2436288cb36d66912c0f6534d822c22fa544a74a94"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_inspect_mvmt_7.ogg"
+hash = "83e8c1865647c4de52e46534717be382b99b455d3b869795da010a3f333fc2dc"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_inspect_slide_back.ogg"
+hash = "15f144114aaf4bcc57d3a499175823a1a6c939552ce49221ad5627a36aaf09a8"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_inspect_slide_release.ogg"
+hash = "3e03e34b1ab5fd050878f1f0560c233194294fe1f61d50ca7a8081e1c37a6f5c"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_put_away.ogg"
+hash = "4a09ffe9d415eb89c4ed1dc21fe9f825346480383266c0acf1a14f8653475409"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_reload_empty_charge.ogg"
+hash = "f0bbf9a10381a88e5e947785d07859d55a8f2a607d4d5f1372ebe8b141f429b1"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_reload_empty_end.ogg"
+hash = "7bfc4e15b53e7eb0bb67cf48c9ab32e74a05cff7caa0a42f24f4b74f54bd727e"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_reload_empty_magin.ogg"
+hash = "e513e8301e068b15aa6858d3f2485f040d319ce73db640b1110848668add8297"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_reload_empty_magout.ogg"
+hash = "50d49e533486d812d390e31722b0d738354fa4dbf21b90dec13a7eac6168a717"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_reload_empty_raise.ogg"
+hash = "59623110c644c2e17a99dd4cc5bcc0c232276564dd639cd8d7f038900151d90f"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_reload_end.ogg"
+hash = "4e4c7fd1eecd2a5dc757701389f0b6919c0cf4f953943c39adc223e951f45f26"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_reload_maghit.ogg"
+hash = "fd8f836eb7e36940e1642ab7ac804eced720ce4001afd1e27dd553de8b9829d7"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_reload_magin.ogg"
+hash = "9b4d963e074b1d0e7f6d59c6f2a2885f3c6113d67579bdd7f53e3f05032ec06d"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_reload_magout.ogg"
+hash = "0acb58476c2ec7bf4c66d7e8fda157a4ea0150270358a963860178a7318b8246"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_reload_magrelease.ogg"
+hash = "cab13bb3df61b0c7f6408a9835d578cc33b64bba07e22681012eb7875e14fb8c"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_shoot.ogg"
+hash = "acdd922177565f420776f518b208ca951aaa38a0538a26f53f8044b33896ad05"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_shoot_3p.ogg"
+hash = "65330de8a79d294c0ece13d9e8dcd3119b22ff05c84bba0cb2ac12f1cb0f40cf"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_silence.ogg"
+hash = "336c246bbf26c96fbdbfea7074c403ae4836fedeb91d2a1648689f6e58a6185a"
+
+[[files]]
+file = "tacz/maxstuff/assets/tacz/tacz_sounds/b93r/b93r_silence_3p.ogg"
+hash = "a1a26f6e441b97167547ccdd9316ad2da1ebe9846ba44602a03ededb30a96d98"
+
+[[files]]
+file = "tacz/maxstuff/gunpack.meta.json"
+hash = "b30f351f9acd5d19e4b64d047617a35f2c558afdc6024284e7ff82ecc41d8652"
+
+[[files]]
+file = "tacz/maxstuff/readme.toml"
+hash = "00e2735703fb644accea13ef920323941fe4a1f073d3e6939b410acd39e4ec3e"
+
+[[files]]
+file = "tacz/tacz-pre.toml"
+hash = "380a3105e0739f6bbae202352d29d68a7a1e88bab8912c95cd9204492c7d48ae"
+
+[[files]]
+file = "tacz/tacz_default_gun/README.txt"
+hash = "a6ed777c38fa7e0a13242416d6c12d06c398357becc6cbdcc5c66d855634c310"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/aa12.animation.json"
+hash = "eee2b1934c48fcea6958b0a7c69e4417013b71977e23b2e7c9595888c76ac27f"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/ai_awp.animation.json"
+hash = "490f9ea0a7af3100fa9c5dd7e861e8d8ffeeb1e69810b1b6daa63a0ec3852126"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/ak47.animation.json"
+hash = "81af24524f6831f03d1341745563182018366883a01241105b6ebabddf1d9f4a"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/aug.animation.json"
+hash = "f184b7f1d520400fe868c1a3f4dde781097dc129414f6a4d656ec1a4a9a14d06"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/b93r.animation.json"
+hash = "26d9a86ca2d936a130193d71f0363cee8ee81a252ee9c246c55ab5b1c7007400"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/cz75.animation.json"
+hash = "832e1c91852bb9c24c1b15d2700cf6f98ac45f42d87100233b3029c1c7fd473c"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/db_long.animation.json"
+hash = "109ab690a753cf4de402682a31dafd2d1e3e632030722fb15ae79d67bb5bd1c2"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/db_short.animation.json"
+hash = "109ab690a753cf4de402682a31dafd2d1e3e632030722fb15ae79d67bb5bd1c2"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/deagle.animation.json"
+hash = "dd19d414584e58774e8cce1f90bfcb0ff65dd2abc0779fc520899f1569e7be43"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/deagle_golden.animation.json"
+hash = "497b40836031d3cd31b28c04fa226e43e25db214765ac2ce6a36ebbb600bf871"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/g36k.animation.json"
+hash = "7280615b3ece5db522e8234f67d7f67a2e2046374c5923274b5796916ff32170"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/glock_17.animation.json"
+hash = "dc0a753b302dcd646e2112ec2950006f9db714d3ca97458d9c571a000046a1a7"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/hk416d.animation.json"
+hash = "d0be409a476808786e1b4815b96d222be8d68b910a2e228e2d89239887c4cb88"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/hk_g3.animation.json"
+hash = "dbbafa61defb0bda57dad7678743bc568bdbeadbd4fce895093495834770706e"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/hk_mp5a5.animation.json"
+hash = "9f4879fcc0f6088a829da3ecc8691ff1ae678ee10bc6157d4a066425c55a957f"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/m107.animation.json"
+hash = "827150bf75fcbe7f299650dec94c7ceda1dc62d7d3c56f107b4aeba22b2558e0"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/m16a1.animation.json"
+hash = "a6d3cd278305c2a6dadbefe7f3a9beac1ff8c82f5a9e5304fe847788edd387cb"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/m16a4.animation.json"
+hash = "351d5d3d4e14a717632e508a7267ff0f7a65eaf849b5e9920645d860a4af709a"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/m1911.animation.json"
+hash = "9016458ec1dde9a0e89f0b665f5bb7888fb8d254caaa6d4bc796d6fe31e9af8f"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/m249.animation.json"
+hash = "35425612cd100e6a809b04652a4933bfbf09f836898ac9bcfb1e655f9d101c51"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/m320.animation.json"
+hash = "04aae2d5cfa65f696ddf8a2783d8093b6b9b53ee4cdbeca3ebb32e48125a14a3"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/m4a1.animation.json"
+hash = "3614bd8688bdae52ce13b30e8894284552a664fa61cdfb39a5acb19794fae719"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/m700.animation.json"
+hash = "94ce82d5cde08a786a302c13346e07ae55a11c6fbd4b7d17973d60911fbb9c3d"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/m870.animation.json"
+hash = "b0cb2400e8e2fe6d31e1c044347c63e9ae362fa36a30852e455e8538ef5385e7"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/m95.animation.json"
+hash = "99f1ab535dd3cd73500365a6ba959a5e80ec7788e7e4f114142dfbe4612f282f"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/minigun.animation.json"
+hash = "c9c7d284842bdb2ddb0b4894f245aa0c12eefe258f2d00527c4aae845b35a56a"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/mk14.animation.json"
+hash = "c8608430f648976c7766c7e747510fb3abc905be7ca1f0481db9b625af108ac5"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/p320.animation.json"
+hash = "8034ddca6e1bc87efcc6dcd8ea34ee6f0087565be0faf6e8095d94159d4f2ea8"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/p90.animation.json"
+hash = "a3d3cc935cf13caa64cb0e65e88e967892bc70054d2b577fb292abf1d0b5e8e2"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/qbz_95.animation.json"
+hash = "4942cb30d5f620c170f322acced450591716fdfcaf1c05d86c0eddd8eb06fd44"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/rpg7.animation.json"
+hash = "6e3f9436e3208e25e18c6bd5331b7376ad014513a38beb1d2694a55f311ad877"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/rpk.animation.json"
+hash = "808b89cb9c288fbf615dbbf73ab2cbd83f76c27b23fd501ea7877481a3ad98a7"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/scar_h.animation.json"
+hash = "c0f73a5a96e37e595c0f92c78eb94cd366d9fd9c1912adb1b39bbaebeae42ff2"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/scar_l.animation.json"
+hash = "6f521d05aabc97823e805a87840554cd1d3f1a5750a13b9976c91e3d7db5cc25"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/sks_tactical.animation.json"
+hash = "9e75ec652d2c37c42cca3ef1c9f6bf897b567bdd0d35e903415cf1fd15afcaac"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/spr15hb.animation.json"
+hash = "c0cfeac465c5a4905af2109816f80687c9e34adb01d9ce1d8b2962b84c0e6ce2"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/springfield1873.animation.json"
+hash = "5f4e5011f70e0262d8d9e957c41bb6bcb6cda493b1f018fe67d9f16f0c5b8224"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/timeless50.animation.json"
+hash = "2c20c6a74d52ec903512fa5e8c94da5a3b51203bea27de4036ca64a676b56df3"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/type_81.animation.json"
+hash = "bb2fa7100d42a27b0b61516098417d48f44510fea7f5b8e5dfd8a67842fc611f"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/ump45.animation.json"
+hash = "a769ee44e4f14aba1dd6d6a72eec58bdf723587b52b758a9b61de9fa8208f1f8"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/uzi.animation.json"
+hash = "5079c5948093a08c3769fb397cfdd481ea4629f56e66dde08873d7cf1c8c1946"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/animations/vector45.animation.json"
+hash = "656e68f6b16a1be2bc91c535763b3da82d9a5372cb271771be21067bc48eb1d1"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/gunpack_info.json"
+hash = "b11dbeba3b2fd5cb21f0c1eac0c8f44460bd2391eb8a3dd32e278d8619275237"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/ca_es.json"
+hash = "30a3cbb517c025950ae3e672a5ffe678ed3145e4135c442441c9a4e881510069"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/da_dk.json"
+hash = "afde31d56635c5943a9fa42546d0625ca31090739cf2f09510e99730dfe2943f"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/de_de.json"
+hash = "e84f7d96a22c164e7f5fc0cb79c276adfd094c6e804c1d031f09d7e9221e9745"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/en_us.json"
+hash = "e096f8bce0133d09c6d31bb2df0a93b9586b95585aceb315617ad14684376a4a"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/es_es.json"
+hash = "2cf4f7a7862d17200134fcda2103f75e7b33b9fa15ca1e69f1a1aa6953add6f6"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/eu_es.json"
+hash = "e9d3be9996223e5e1e79d46a101b502973ecbc199e3cca72002439d279309805"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/fr_fr.json"
+hash = "bacf27463849263cad85a0b3b75962beb4f8ef5dc0bc2b44846fad234a5f49bf"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/id_id.json"
+hash = "cae89474254fe374784a9cd2aa553dac822353f67d3a981845b2cec8abd7b370"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/it_it.json"
+hash = "a6f6d2ee6f73496c66f5dd73c637b90bdb61a712289a5d53ecd333353a86fbfc"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/ja_jp.json"
+hash = "5a6e54939f561535402635bc087bdcc3e696459968bc0da303277f3b3e377733"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/ko_kr.json"
+hash = "c4c04eb732bf1a4bb66e5d58982e148af8fe694c64f2e5a5994a17b921666471"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/pl_pl.json"
+hash = "e439def342c4e1a237a40effdb71b048267cc15222be5256d1872ec0a1d73c63"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/pt_br.json"
+hash = "21816f868e8383096ac8eae08ad0f4e2185ea993f93a06f74fbf87bf48834488"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/ru_ru.json"
+hash = "6277286b5f012452a563558845080ffaaf9cf51fec065a074d74951e0e51a296"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/th_th.json"
+hash = "5d36233a1b90af41aaa08b6152d2433fe23e5eb5b286aa3883ca436d9c39f65e"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/tr-TR.json"
+hash = "30ac277dd0477de197bc694531d29f3d3e5eb788bdabaeafbb37be4eadda7cc1"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/tr_tr.json"
+hash = "fbdcd6a017dfcf63ad9754e800a40199d8dc1b8de575da33b824131b328f4cae"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/uk_ua.json"
+hash = "2f96e73d752c5d0d7ffe175b7a1d3170db6a5be5c4ce93e1088c3c7151db4e3d"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/vi_vn.json"
+hash = "e7f3c9877b19f215c619f3eca2d2453fa5429afef32fe823e4e39a3f4d36a230"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/zh_cn.json"
+hash = "a9b51928231044aff6119880a7028fa90ce5614f3ef274786c236e62a0819688"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/lang/zh_tw.json"
+hash = "ed5ee0c703a23a81415127e5813abeece0e9e86a9c22a3cf60f193b98b7fd0b0"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/player_animator/minigun.player_animation.json"
+hash = "2a44235936d7126b7ed8d0d42cd0b6fa511a2089cfd6f725b51d12248952294b"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/player_animator/pistol_default.player_animation.json"
+hash = "dae3bd2a1777d5fbfd89abc371c4d05ad855816d69ea2663f9332066057b4f34"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/player_animator/rifle_default.player_animation.json"
+hash = "6dfdaf4c42f8d8db3d9237042c62f23cfdacf7d6564156b2777bd3f35fdbb388"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/ak47_state_machine.lua"
+hash = "98199f65fdc8ef491f06b59eff30da2c4fc6ad6a448442a13539bddbe6815a6f"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/deagle_state_machine.lua"
+hash = "2d759c997cdf4d6312a44959e81a06880e1e32ec9042f6723f4069d52055cd56"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/default_state_machine.lua"
+hash = "c8a7ab9fe76f352658a8d0401021c0723bc071e91f665bc575fa09eb9569c96c"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/devotion_lmg_state_machine.lua"
+hash = "0f64b9aafa26af7e35f9259cdde05eb92ff2f7df477619324caee9c4f9c16500"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/g36k_state_machine.lua"
+hash = "3814132697f3b8f6391c5bf818d7cf964396d419a4e3257849f29ee4cc983992"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/hk416d_state_machine.lua"
+hash = "53767694340dbfd4d868c3622e2d8c56acffbe145c0718d781c0a7262e3b5e2a"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/hk_mp5a5_state_machine.lua"
+hash = "a9a56cbb8f7d6e7449a92d8ff85663f6bd16bc4c755e75a1b071e4e0f6131208"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/m249_state_machine.lua"
+hash = "a611ab5ef5439d6b24f442c84f9a84cf1017a2bf0b248bf9cf03e23ab5f2962f"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/m870_state_machine.lua"
+hash = "08b61e3ab2e85af60bf470a92b92dbbd0736f8f0262f87517bcebf30d5a47cec"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/manual_action_state_machine.lua"
+hash = "0ac0a98fc713a1e4edc55120b89b94e68f859e2bc4f2348b3e15a04f7ba0eea6"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/minigun_state_machine.lua"
+hash = "183d50577bb815c73b40b7df2d2f1a5c05550929dbb85d01089c9c4526399728"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/scar_h_state_machine.lua"
+hash = "6faecbdf1ad77144023574a75372c491acc5d2ace506126773ed44c571269362"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/scar_l_state_machine.lua"
+hash = "a7a3eeeb838e3b68d8101c20fc59e2596e62b296797740e9f2935c0ffcfa69f0"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/sks_tactical_state_machine.lua"
+hash = "3e7c4d172ea20805eb77730c8d76c48de8bf1c681f517a1757aa56582acd3197"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/spr15hb_state_machine.lua"
+hash = "e65cce7700ca1017499eda3622d8d84cb66a5875bfa6ff506d48544177ae2545"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/timeless50_state_machine.lua"
+hash = "430c5a15c07c114b9f7680f21066ba01af176f23ecca41c51d9398fabb4e061c"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/scripts/vector45_state_machine.lua"
+hash = "ec262d4c5b14acf161948da189219b5a53973f5a32defffddc798af25a28b4e5"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/tacz_sounds/dry_fire.ogg"
+hash = "50695508fb4afed659fa69702da1c5606125e24bc20dbb11f69c14016a6731ec"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/tacz_sounds/fire_select.ogg"
+hash = "b08bcb04482081303471fe722f41eb0f90cfa0b52d4494d8778572c02484f334"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/tacz_sounds/flesh_hit.ogg"
+hash = "79572c0f7492949cd73c0a4505a18ac4d4436d406d8e413b3491217b12fdde17"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/tacz_sounds/head_hit.ogg"
+hash = "224884c4f834852a7dd711abfa3605b73955903a5b81f363bc18845b0b03be53"
+
+[[files]]
+file = "tacz/tacz_default_gun/assets/tacz/tacz_sounds/kill.ogg"
+hash = "fca997a4fd5a299b38477ec8f92bdd3fac57a00422d71749562d143216dbe1a2"
+
+[[files]]
+file = "tacz/tacz_default_gun/data/tacz/recipe_filters/default.json"
+hash = "abc3d36c165313289fdaf0b54db56c1a12d82e06e5201292532b5875ece62f73"
+
+[[files]]
+file = "tacz/tacz_default_gun/data/tacz/scripts/devotion_lmg_logic.lua"
+hash = "bb89a63cc0969c58b1c465ae465eae0696f51c81931e0e52a351b759c9e2d56a"
+
+[[files]]
+file = "tacz/tacz_default_gun/data/tacz/scripts/m870_gun_logic.lua"
+hash = "b3c3c7cabfa9321030918ba93e8c555443bdc6e87d7a29b463100d169698013d"
+
+[[files]]
+file = "tacz/tacz_default_gun/data/tacz/scripts/sp_heat.lua"
+hash = "121d4183c2c812c2c8705f1b7a66c64bfcfd9996c46e9aaefef1a963543e80af"
+
+[[files]]
+file = "tacz/tacz_default_gun/data/tacz/scripts/sp_spread_logic.lua"
+hash = "c267ec50e19838c8bec4b9141209c71fee55ffba1e10c9a0b4a993a622e0f8a8"
+
+[[files]]
+file = "tacz/tacz_default_gun/data/tacz/scripts/xmag_reload_logic.lua"
+hash = "5f25d34f7866fa928d2c937d52a2a5e14c47adce1cbf727d5b58114f33755f46"
+
+[[files]]
+file = "tacz/tacz_default_gun/gunpack.meta.json"
+hash = "5419a196ae5d34b22b9209369cd70147ac889ed45facb46e527f35ad7633f8d7"
