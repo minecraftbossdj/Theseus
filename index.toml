@@ -5,6 +5,14 @@ file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
 hash = "f55c6f1af5dbd5cf5cc53e09eb0ff8b04ea43c4f06ff764f16cd60a098425192"
 
 [[files]]
+file = "gitattributes"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
 
@@ -850,6 +858,10 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "443be75ba198121cefefc3da417e2ec586c2ac27d91fa3b9516f8b569f96974b"
 metafile = true
+
+[[files]]
+file = "packwizignore"
+hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
 
 [[files]]
 file = "tacz/ARIPS_ver.1.3.0.zip"
