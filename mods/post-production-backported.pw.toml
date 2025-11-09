@@ -1,13 +1,13 @@
 name = "Post Production Backported"
-filename = "postproduction_backported-1.0.8.jar"
+filename = "postproduction_backported-1.0.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EZuvIJMn/versions/kxZwfSnT/postproduction_backported-1.0.8.jar"
-hash-format = "sha256"
-hash = "d46429bcc1180b25fb2788933bc1679cd1753b3b5ddf05c333ec812ab56b7ab5"
+url = "https://cdn.modrinth.com/data/EZuvIJMn/versions/QyCkybgf/postproduction_backported-1.0.9.jar"
+hash-format = "sha512"
+hash = "284f7493c53a56168f5f99e10bfc8479cb45a715b59140fba0b5747a98723e3dd174276bdb296900b23998ed7e7566107c5fea0b863d200efb44b3c94c23f940"
 
 [update]
 [update.modrinth]
 mod-id = "EZuvIJMn"
-version = "kxZwfSnT"
+version = "QyCkybgf"

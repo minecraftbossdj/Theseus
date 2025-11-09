@@ -1,13 +1,13 @@
 name = "CBC More Shells"
-filename = "cbcmoreshells-0.1.0.jar"
+filename = "cbcmoreshells-0.2.0a.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WnQUCdnh/versions/6Qywbtcb/cbcmoreshells-0.1.0.jar"
-hash-format = "sha256"
-hash = "1b70ac0e417fbb85c060ee1a27a4333dffd5f497168c12a9f0f5ca60157ee01d"
+hash-format = "sha1"
+hash = "70d08ea0c6342b8ab1cfcf9acbc15d98ebd68dfb"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "WnQUCdnh"
-version = "6Qywbtcb"
+[update.curseforge]
+file-id = 7095741
+project-id = 1222164

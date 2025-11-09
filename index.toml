@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbc-more-shells.pw.toml"
-hash = "514729e66bec8ed9c5aec0e424e1a2a10f39b8c7798e1ff5c5d762f867c809df"
+hash = "1a9ddcb2a4d24c66278f031b8016eada63321b77309b35270697fded7c7f2380"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ hash = "7e3119dc9014f7dbf3bc291cae05b8c9fa897e36502fd8ceefb3a9be47dfab58"
 
 [[files]]
 file = "mods/cc-link.pw.toml"
-hash = "e2adbd0a2f73ee8e1401d2b66d6618b26982172824248ce9ad89dda0c3f0cf33"
+hash = "d9ee2811355edc39ec1cedb7b1967f1aeb83670e0267161ddffecd948eb3124c"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons-advanced-technologies.pw.toml"
-hash = "3a9076fa4d608fe740b8a1413fea1e779d06d94e859c009ff449c73bd6df6db2"
+hash = "66aef5f008c737f7a79ce131c1c4ebc52d1376c48828411a9bbb71c75b4f9c7d"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/post-production-backported.pw.toml"
-hash = "91310afb54df219fa848dd68531f9a5869b10c90c9d93b626bc6b4798784e7f9"
+hash = "11f108d6587e4a85732ca50d2516f33513c9f2a5fd96915b5f5a550a3b653879"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "98c4c46d549acca28ecab401370d47eff8d23580ba8f2319159d1805d2796df3"
+hash = "5d004138ea3f518a98d54b9b7acf001d577fa897d5f77d3acb1ee7b12ef8e9a4"
 metafile = true
 
 [[files]]
@@ -813,7 +813,7 @@ hash = "3e32913a84bf7094e2d28903f5ea0d2b4b885d9e25286ed72ecf477a289ae5ca"
 
 [[files]]
 file = "mods/vmod.pw.toml"
-hash = "5fa075a71ed6e94d9a85b1205cd538124d42a6b2ece1d0946fe8af099015739a"
+hash = "7fd322bb6f0df02208a91692500ba35adda0887e9fa78d62e4c199063f5b7c69"
 metafile = true
 
 [[files]]

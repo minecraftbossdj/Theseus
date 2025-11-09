@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/x0sJ9PeR/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
 hash-format = "sha256"
-hash = "33258d38e9212a54406156087f6f4719ee5393cc1bc95ea39a0c38fcaed6d4ab"
+hash = "1d7a0d4cdbdee61532dd23ddbc2833292e945d8ec2d20f3271af86b02b0fc108"
 
 [update]
 [update.modrinth]
