@@ -1,0 +1,13 @@
+name = "Gunfire Overhaul: Echoes of the Battlefield"
+filename = "Gunfire Overhaul-0.1.1-a Forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "448bea2c902369836c56cb041dc21a6b99a14f3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6984166
+project-id = 1324526

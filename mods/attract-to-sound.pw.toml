@@ -1,0 +1,13 @@
+name = "Attract to Sound ([NEO]Forge/Fabric): Realistic mob hearing & stealth AI."
+filename = "forge_soundattract_1.20.1-4.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "252aa36a05704e2d3fcd2fe4021bd0748864a514"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7241543
+project-id = 1213051
